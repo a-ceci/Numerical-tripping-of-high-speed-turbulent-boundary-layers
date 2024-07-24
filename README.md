@@ -1,7 +1,8 @@
 # Numerical-tripping-of-high-speed-turbulent-boundary-layers
 Datasets M2.zip and M5.zip of long ZPG supersonic/hypersonic turbulent boundary layer related to the work <br />
 "Ceci, A., Palumbo, A., Larsson, J. et al. Numerical tripping of high-speed turbulent boundary layers. Theor. Comput. Fluid Dyn. 36, 865–886 (2022). https://doi.org/10.1007/s00162-022-00623-
-0" <br />
+0". Data also available with the following DOI 10.5281/zenodo.12810196.
+ <br />
 <br />
 Files cf_fav*dat (Favre averaged velocities) contain columns with streamwise dstribution of the following quantities:<br />
   Supersonic cases, x/delta0,cf,retau,retheta,redelta2,delta99/delta0,p'_w^2/tauw, turbuent tau_xy peak, turbulent tau_xx peak<br />
